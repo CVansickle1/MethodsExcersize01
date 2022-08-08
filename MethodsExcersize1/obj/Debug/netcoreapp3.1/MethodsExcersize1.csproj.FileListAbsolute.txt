@@ -1,0 +1,14 @@
+C:\Users\cojo3\Desktop\repos\MethodsExcersize1\MethodsExcersize1\obj\Debug\netcoreapp3.1\MethodsExcersize1.csproj.AssemblyReference.cache
+C:\Users\cojo3\Desktop\repos\MethodsExcersize1\MethodsExcersize1\obj\Debug\netcoreapp3.1\MethodsExcersize1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cojo3\Desktop\repos\MethodsExcersize1\MethodsExcersize1\obj\Debug\netcoreapp3.1\MethodsExcersize1.AssemblyInfoInputs.cache
+C:\Users\cojo3\Desktop\repos\MethodsExcersize1\MethodsExcersize1\obj\Debug\netcoreapp3.1\MethodsExcersize1.AssemblyInfo.cs
+C:\Users\cojo3\Desktop\repos\MethodsExcersize1\MethodsExcersize1\obj\Debug\netcoreapp3.1\MethodsExcersize1.csproj.CoreCompileInputs.cache
+C:\Users\cojo3\Desktop\repos\MethodsExcersize1\MethodsExcersize1\bin\Debug\netcoreapp3.1\MethodsExcersize1.exe
+C:\Users\cojo3\Desktop\repos\MethodsExcersize1\MethodsExcersize1\bin\Debug\netcoreapp3.1\MethodsExcersize1.deps.json
+C:\Users\cojo3\Desktop\repos\MethodsExcersize1\MethodsExcersize1\bin\Debug\netcoreapp3.1\MethodsExcersize1.runtimeconfig.json
+C:\Users\cojo3\Desktop\repos\MethodsExcersize1\MethodsExcersize1\bin\Debug\netcoreapp3.1\MethodsExcersize1.runtimeconfig.dev.json
+C:\Users\cojo3\Desktop\repos\MethodsExcersize1\MethodsExcersize1\bin\Debug\netcoreapp3.1\MethodsExcersize1.dll
+C:\Users\cojo3\Desktop\repos\MethodsExcersize1\MethodsExcersize1\bin\Debug\netcoreapp3.1\MethodsExcersize1.pdb
+C:\Users\cojo3\Desktop\repos\MethodsExcersize1\MethodsExcersize1\obj\Debug\netcoreapp3.1\MethodsExcersize1.dll
+C:\Users\cojo3\Desktop\repos\MethodsExcersize1\MethodsExcersize1\obj\Debug\netcoreapp3.1\MethodsExcersize1.pdb
+C:\Users\cojo3\Desktop\repos\MethodsExcersize1\MethodsExcersize1\obj\Debug\netcoreapp3.1\MethodsExcersize1.genruntimeconfig.cache
